@@ -1,0 +1,2 @@
+# gasss_git
+belajar
